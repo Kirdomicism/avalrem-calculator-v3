@@ -6,6 +6,6 @@ To run the latest web calculator on your computer:
 1. Open your terminal or Command Prompt.
 2. Navigate to this project folder.
 3. Run the following command:
-...cmd
+...bash
 python avalrem-web-calculator-v3.py
 ...
