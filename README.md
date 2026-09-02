@@ -7,5 +7,4 @@ To run the latest web calculator on your computer:
 2. Navigate to this project folder.
 3. Run the following command:
 ...bash
-python avalrem-web-calculator-v3.py
-...
+   python avalrem-web-calculator-v3.py...
